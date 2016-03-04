@@ -21,6 +21,12 @@ a {
 	margin: 0 auto;
 }
 
+.gray.padding{
+   	padding:120px 0;
+	background-color: #FFFFDD;
+
+}
+
 .clearfix:after {
   content: "";
   display: table;
@@ -48,7 +54,7 @@ a {
 	font-weight: bold;
 	text-transform: capitalize;
 }
-   
+
 #nav .active a {
 	color: #1ED3A6;
 }
@@ -76,10 +82,6 @@ a {
 }
 
  /* .features*/
-.features {
-	padding:120px 0;
-	background-color: #FFFFDD;
-}
 
 .feature {
 	-webkit-box-sizing: border-box;
@@ -108,8 +110,26 @@ a {
 	color: #999;
 }
 
+/* goals */
 
+.goals {
+ -webkit-box-sizing: ;
+ -moz-box-sizing: ;
+ box-sizing: border-box;
+ float:left;
+ padding:0 15px;
+ width: 33.3333333%;
 
+}
+
+/* tools */
+
+.tools {
+	background-image: 
+    url(http://lorempixel.com/1000/500/);
+}
+
+.tools
 
 
 
